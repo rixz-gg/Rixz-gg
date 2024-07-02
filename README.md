@@ -11,6 +11,3 @@ Languages and Tools:
 <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="25" height="25" alt="JS"/>
 
 > Discord & Social Networks
-
-[![discord](https://github.com/rixz-gg/Errs-Patreon/blob/main/Vaoc%20WP.jpg?raw=true)](https://discord.gg/jZUftUcTn)
-[![discord](https://github.com/rixz-gg/Errs-Patreon/blob/main/Discord.jpg?raw=true)](https://discord.gg/jZUftUcTn)
